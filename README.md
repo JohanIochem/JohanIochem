@@ -1,6 +1,6 @@
 - 👋Bonjour, je suis @JohanIochem
 - 👀 Passioné par les nouvelles technologies ainsi que par le web...
-- 🌱 ...Je suis actuellement en formation de Développeur Web
+- 🌱 ...Je suis en formation Développeur Web
 - 📫 Retrouvez ici les avancées de mes projets. 
 
 <!---
